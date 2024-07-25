@@ -105,12 +105,19 @@ section {
 
 #transform-world {
     height: 560px;
-    background-size: cover;
+    background-color: black;
     background-image: url("../images/woman-code.png");
+    background-size: cover;
     background-attachment: fixed;
     border-top: 1px solid #33A8DB80;
     border-bottom: 1px solid #33A8DB80;
     padding: 200px;
+    width: 1440px;
+    height: 363px;
+    top: 1138px;
+    gap: 0px;
+    border: 1px 1px 1px 0px;
+    opacity: 0px;
 }
 
 #transform-world p {
