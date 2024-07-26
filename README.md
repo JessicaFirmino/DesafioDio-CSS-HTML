@@ -20,3 +20,5 @@ que você possa se basear.
 
 Caso tenha alguma dúvida, ou queira comparar o resultado do desafio que você fez, nós temos o site finalizado na branch *final*. Basta alterar a branch do projeto
 utilizando o comando `git checkout final` no seu terminal.
+
+Foi necessário um ajuste no código html e comentar uma linha com duas identificações diferentes para a mesma img,estava gerando duplicidade da img. Essa foi a forma que eu encontrei de deixar a pagina exatamente igual. 
